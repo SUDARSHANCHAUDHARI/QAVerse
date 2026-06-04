@@ -47,3 +47,4 @@ Run typecheck and smoke-test the API routes locally.
 - Re-ran `pnpm build` and `pnpm typecheck`; both passed.
 - Updated README and `.env.example` secret examples to use `YOUR_*` placeholders.
 - Re-ran `pnpm build` after placeholder cleanup; passed.
+- Polished README with public-demo status, technical decisions, Cloudflare deployment settings, verification, known limits, and author section.
