@@ -27,5 +27,6 @@
     "postcss": "^8.4.35",
     "eslint": "^8",
     "eslint-config-next": "15.3.2"
-  }
+  },
+  "license": "MIT"
 }
